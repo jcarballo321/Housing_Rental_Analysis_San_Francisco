@@ -13,7 +13,7 @@ Your job is to use your data visualization superpowers, including aggregation, i
 ## Visulaizations
 
 
-![Example 1](AA.png)
-![Example 2](B.png)
+![Example 1](AA.JPG)
+![Example 2](AB.JPG)
 ![Example 3](C.png)
 ![Example 4](C.png)
