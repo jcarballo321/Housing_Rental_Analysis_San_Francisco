@@ -15,5 +15,5 @@ Your job is to use your data visualization superpowers, including aggregation, i
 
 ![Example 1](AA.JPG)
 ![Example 2](AB.JPG)
-![Example 3](C.png)
-![Example 4](C.png)
+![Example 3](AC.JPG)
+![Example 4](AF.mp4)
